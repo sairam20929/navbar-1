@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+
+}
+.navBar{
+  height: 70px;
+  width: auto;
+  background-color: #34eb49;
+}
+.navRight{
+  /* background-color: green; */
+  color: #fff;
+  font-size: 20px;
+  float: right;
+  /* width: 150px; */
+  list-style: none;
+}
+li{
+  font-family: popin;
+  margin: 10px;
+  display: inline;
+}
